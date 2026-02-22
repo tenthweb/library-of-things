@@ -1,1 +1,1 @@
-web: gunicorn library_of_things.wsgi
+web: gunicorn borrowing_app.wsgi
